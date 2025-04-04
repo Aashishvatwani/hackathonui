@@ -13,7 +13,10 @@ export default {
       textPrimary: "#FFFFFF",
       accent: "#8A4FFF",
       highlight: "#E91E63"
-    }},
+    },
+    animation: {
+      'spin-slow': 'spin 20s linear infinite',
+    }}
   },
   plugins: [],
 };
